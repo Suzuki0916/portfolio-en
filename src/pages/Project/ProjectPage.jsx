@@ -164,7 +164,7 @@ const Project = () => {
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/TatoFood/" target="_blank">https://tato-food.com</a>
+                <span>Link:</span> <a href="https://Suzuki0916.github.io/TatoFood/" target="_blank">https://tato-food.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -206,7 +206,7 @@ const Project = () => {
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/Justice" target="_blank">https://justice.com</a>
+                <span>Link:</span> <a href="https://Suzuki0916.github.io/Justice" target="_blank">https://justice.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -249,7 +249,7 @@ const Project = () => {
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/Magical-Effect/" target="_blank">https://magicaleffect.com</a>
+                <span>Link:</span> <a href="https://Suzuki0916.github.io/Magical-Effect/" target="_blank">https://magicaleffect.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -333,7 +333,7 @@ const Project = () => {
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/InspiredGamer" target="_blank">https://inspired-gamer.com</a>
+                <span>Link:</span> <a href="https://Suzuki0916.github.io/InspiredGamer" target="_blank">https://inspired-gamer.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -375,7 +375,7 @@ const Project = () => {
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/EveryRunning" target="_blank">https://every-running.com</a>
+                <span>Link:</span> <a href="https://Suzuki0916.github.io/EveryRunning" target="_blank">https://every-running.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -417,7 +417,7 @@ const Project = () => {
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/PlusAnime" target="_blank">https://plusanime.com</a>
+                <span>Link:</span> <a href="https://Suzuki0916.github.io/PlusAnime" target="_blank">https://plusanime.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -458,7 +458,7 @@ const Project = () => {
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/ElegantHand/" target="_blank">https://elegant-hand.com</a>
+                <span>Link:</span> <a href="https://Suzuki0916.github.io/ElegantHand/" target="_blank">https://elegant-hand.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -499,7 +499,7 @@ const Project = () => {
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/vida-en-papel" target="_blank">https://vida-en-papel.com</a>
+                <span>Link:</span> <a href="https://Suzuki0916.github.io/vida-en-papel" target="_blank">https://vida-en-papel.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -540,7 +540,7 @@ const Project = () => {
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/shop-tec" target="_blank">https://shop-tec.com</a>
+                <span>Link:</span> <a href="https://Suzuki0916.github.io/shop-tec" target="_blank">https://shop-tec.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -582,7 +582,7 @@ const Project = () => {
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/Power-Engine" target="_blank">https://power-engine.com</a>
+                <span>Link:</span> <a href="https://Suzuki0916.github.io/Power-Engine" target="_blank">https://power-engine.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -613,17 +613,17 @@ const Project = () => {
               <p>
                 <FormattedMessage
                   id='projects-info-6-p1'
-                  defaultMessage='Spider-Man fan page, is a project developed in honor of Spider-Man.'
+                  defaultMessage='Nuxt-Exmaple fan page, is a project developed in honor of Nuxt-Exmaple.'
                 />
               </p>
               <p>
                 <FormattedMessage
                   id='projects-info-6-p2'
-                  defaultMessage='It offers a wide variety of information about Spider-Man and his multi-verse variants, as well as facts and trivia about his enemies and allies.'
+                  defaultMessage='It offers a wide variety of information about Nuxt-Exmaple and his multi-verse variants, as well as facts and trivia about his enemies and allies.'
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/Spider-Man" target="_blank">https://spider-man-fans-page.com</a>
+                <span>Link:</span> <a href="https://Suzuki0916.github.io/Nuxt-Exmaple" target="_blank">https://Nuxt-Exmaple-fans-page.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -665,7 +665,7 @@ const Project = () => {
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/PremierFood" target="_blank">https://premierfood.com</a>
+                <span>Link:</span> <a href="https://Suzuki0916.github.io/PremierFood" target="_blank">https://premierfood.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -708,7 +708,7 @@ const Project = () => {
                 />
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/Blog-Coffe" target="_blank">https://ProgramCoffe.com</a>
+                <span>Link:</span> <a href="https://Suzuki0916.github.io/Blog-Coffe" target="_blank">https://ProgramCoffe.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>

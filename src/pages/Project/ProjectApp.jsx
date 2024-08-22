@@ -274,7 +274,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://github.com/Nahuel61920/Weather-App-React" target="_blank">https://github.com/Nahuel61920/Weather-App-React</a>
+                                <span>Link:</span> <a href="https://github.com/Suzuki0916/Weather-App-React" target="_blank">https://github.com/Suzuki0916/Weather-App-React</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -313,7 +313,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Stickers-App/" target="_blank">https://nahuel61920.github.io/Stickers-App/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Stickers-App/" target="_blank">https://Suzuki0916.github.io/Stickers-App/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -353,7 +353,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Music-player/" target="_blank">https://nahuel61920.github.io/Music-player/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Music-player/" target="_blank">https://Suzuki0916.github.io/Music-player/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -391,7 +391,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/GitHub-User-Finder/" target="_blank">https://nahuel61920.github.io/GitHub-User-Finder/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/GitHub-User-Finder/" target="_blank">https://Suzuki0916.github.io/GitHub-User-Finder/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -429,7 +429,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Paint/" target="_blank">https://nahuel61920.github.io/Paint/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Paint/" target="_blank">https://Suzuki0916.github.io/Paint/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -467,7 +467,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Pokedex/" target="_blank">https://nahuel61920.github.io/Pokedex/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Pokedex/" target="_blank">https://Suzuki0916.github.io/Pokedex/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -509,7 +509,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Administrador-de-Clientes/" target="_blank">https://nahuel61920.github.io/Administrador-de-Clientes/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Administrador-de-Clientes/" target="_blank">https://Suzuki0916.github.io/Administrador-de-Clientes/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -551,7 +551,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Pomodoro/" target="_blank">https://nahuel61920.github.io/Pomodoro/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Pomodoro/" target="_blank">https://Suzuki0916.github.io/Pomodoro/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -592,7 +592,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Gastos-semanales/" target="_blank">https://nahuel61920.github.io/Gastos-semanales/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Gastos-semanales/" target="_blank">https://Suzuki0916.github.io/Gastos-semanales/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -634,7 +634,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Cotizador-de-seguros/" target="_blank">https://nahuel61920.github.io/Cotizador-de-seguros/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Cotizador-de-seguros/" target="_blank">https://Suzuki0916.github.io/Cotizador-de-seguros/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -676,7 +676,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Carrito-Cursos/" target="_blank">https://nahuel61920.github.io/Carrito-Cursos/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Carrito-Cursos/" target="_blank">https://Suzuki0916.github.io/Carrito-Cursos/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -718,7 +718,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Tweets/" target="_blank">https://nahuel61920.github.io/Tweets/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Tweets/" target="_blank">https://Suzuki0916.github.io/Tweets/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -759,7 +759,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Buscador-de-autos" target="_blank">https://nahuel61920.github.io/Buscador-de-autos</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Buscador-de-autos" target="_blank">https://Suzuki0916.github.io/Buscador-de-autos</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -800,7 +800,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/FormularioJs-Clasico/" target="_blank">https://nahuel61920.github.io/formularioJs-clasico/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/FormularioJs-Clasico/" target="_blank">https://Suzuki0916.github.io/formularioJs-clasico/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -841,7 +841,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/To-do-list/" target="_blank">https://nahuel61920.github.io/to-do-list/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/To-do-list/" target="_blank">https://Suzuki0916.github.io/to-do-list/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -882,7 +882,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Calcular-gastos-de-viaje/" target="_blank">https://nahuel61920.github.io/calcular-gastos-de-viaje/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Calcular-gastos-de-viaje/" target="_blank">https://Suzuki0916.github.io/calcular-gastos-de-viaje/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>

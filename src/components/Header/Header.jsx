@@ -35,7 +35,7 @@ const Header = () => {
             <div id="menu-btn" className="fas fa-bars" onClick={menuDesplegable}></div>
 
             <NavLink className="logo" to="/">
-                <p>=(<span>NAHUEL61920</span>)=></p>
+                <p>=(<span>Suzuki0916</span>)=></p>
             </NavLink>
 
             <nav className="navbar">
@@ -69,10 +69,10 @@ const Header = () => {
                         defaultMessage='Contact'
                     />
                 </Link>
-                <div id="buttons">
-                    <img onClick={() => idioma.selectLanguage('en-US')} src="https://nahuel61920.github.io/Portafoliovirtual/img/en.png" alt="EEUU" />
-                    <img onClick={() => idioma.selectLanguage('es-ES')} src="https://nahuel61920.github.io/Portafoliovirtual/img/es.png" alt="España" />
-                </div>
+                {/* <div id="buttons">
+                    <img onClick={() => idioma.selectLanguage('en-US')} src="https://Suzuki0916.github.io/Portafoliovirtual/img/en.png" alt="EEUU" />
+                    <img onClick={() => idioma.selectLanguage('es-ES')} src="https://Suzuki0916.github.io/Portafoliovirtual/img/es.png" alt="España" />
+                </div> */}
             </nav>
             <div className="switch" id="switch">
                 <DarkMode />

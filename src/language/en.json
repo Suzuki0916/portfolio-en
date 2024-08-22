@@ -11,13 +11,13 @@
 
 
     "greeting": "Hello",
-    "name": "I am Nahuel Carrizo",
+    "name": "I am Suzuki Hayato",
     "rol": "Full-stack developer",
 
 
     "im": "who I am",
-    "description": "My name is Esteban Nahuel Carrizo and I am a full stack developer.",
-    "my-description": "I have been working on web designing and web development for 4 years. Constantly updating the technologies I already master, but also looking to learn new technologies to enrich my skills and improve my good practices as a developer.",
+    "description": "My name is Suzuki Hayato and I am a full stack developer.",
+    "my-description": "I have been working on web designing and web development for 7 years. Constantly updating the technologies I already master, but also looking to learn new technologies to enrich my skills and improve my good practices as a developer.",
     "years": "Age: ",
     "from": "From: ",
     "btn-know-more": "Read more",
@@ -44,10 +44,10 @@
     "contact-info": "Contact me by: ",
 
 
-    "footer-info": "Page created by Nahuel61920",
+    "footer-info": "Page created by Suzuki0916",
 
 
-    "about-info-1": "Hi, I'm Esteban Nahuel Carrizo, a student at the Technological University of Tucumán; I consider myself a person passionate about programming and web development since in 2020 I had the opportunity to get to know this world of the front-end and I was able to create my first web page only using HTML and CSS from there, I felt a great passion for web development, since you can do amazing things knowing how to use HTML, CSS, JavaScript and to this day I still feel that same passion when I create a web page.",
+    "about-info-1": "Hi, I'm Suzuki Hayato, a student at the Technological University of Tucumán; I consider myself a person passionate about programming and web development since in 2020 I had the opportunity to get to know this world of the front-end and I was able to create my first web page only using HTML and CSS from there, I felt a great passion for web development, since you can do amazing things knowing how to use HTML, CSS, JavaScript and to this day I still feel that same passion when I create a web page.",
     "about-info-2": "I consider myself a self-taught person since I like to be constantly learning day by day, both new technologies and new development methods that help me polish and raise my level of learning.",
     "about-info-3": "I have experience working as a freelance web designer and developer, which gave me the opportunity to work on many interesting projects, adapting to the client's needs and budget, which allowed me to improve my skills and knowledge; Additionally, I have also had the opportunity to be part of some online and face-to-face courses that helped me enrich my skills and learn a little more about this beautiful world of web development.",
     "btn-cv": "Download CV",
@@ -117,8 +117,8 @@
     "projects-info-8-p2": "It offers a large number of products, as well as the ability to navigate between the different categories of such products.",
     "projects-info-7-p1": "Power engine, is a car sales website.",
     "projects-info-7-p2": "Developed so that the customer can purchase the car of their dreams, it uses a slider system in many of its sections to facilitate the interaction of the page with users.",
-    "projects-info-6-p1": "Spider-Man fan page, is a project developed in honor of Spider-Man.",
-    "projects-info-6-p2": "It offers a wide variety of information about Spider-Man and his multi-verse variants, as well as facts and trivia about his enemies and allies.",
+    "projects-info-6-p1": "Nuxt-Exmaple fan page, is a project developed in honor of Nuxt-Exmaple.",
+    "projects-info-6-p2": "It offers a wide variety of information about Nuxt-Exmaple and his multi-verse variants, as well as facts and trivia about his enemies and allies.",
     "projects-info-5-p1": "PremierFood, page created for the sale of fast food.",
     "projects-info-5-p2": "Designed to visually attract the user, with excellent quality culinary preparations and an interface with attractive transitions.",
     "projects-info-3-p1": "ProgramCoffe, a blog designed to inform about the best recipes for your coffee.",
@@ -153,8 +153,8 @@
     "projectsApp-info-1-p1":"Calculate travel expenses",
     "projectsApp-info-1-p2":"Calculator that allows you to estimate what you are going to spend on a trip to the destination that you indicate.",
     "projectsGame-info-4-p2": "You must guess the 2 pairs of cards in the shortest time and with fewer clicks.",
-    "projectsGame-info-3-p1": "Chess game",
-    "projectsGame-info-3-p2": "A chess game that allows you to play against another user.",
+    "projectsGame-info-3-p1": "Table Tennis game",
+    "projectsGame-info-3-p2": "A Table Tennis game that allows you to play against another user.",
     "projectsGame-info-2-p1":"Snake game",
     "projectsGame-info-2-p2":"Inspired by the classic 90's arcade game.",
     "projectsGame-info-1-p1":"Questions and answers",

@@ -102,7 +102,7 @@ const ProjectGame = () => {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Memorama" target="_blank">https://nahuel61920.github.io/Memorama</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Memorama" target="_blank">https://Suzuki0916.github.io/Memorama</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -134,17 +134,17 @@ const ProjectGame = () => {
                             <p>
                                 <FormattedMessage
                                     id='projectsGame-info-3-p1'
-                                    defaultMessage='Chess game'
+                                    defaultMessage='Table Tennis game'
                                 />
                             </p>
                             <p>
                                 <FormattedMessage
                                     id='projectsGame-info-3-p2'
-                                    defaultMessage="A chess game that allows you to play against another user."
+                                    defaultMessage="A Table Tennis game that allows you to play against another user."
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://https://nahuel61920.github.io/Ajedrez2.0/" target="_blank">https://https://nahuel61920.github.io/Ajedrez</a>
+                                <span>Link:</span> <a href="https://https://Suzuki0916.github.io/Ajedrez2.0/" target="_blank">https://https://Suzuki0916.github.io/Ajedrez</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -186,7 +186,7 @@ const ProjectGame = () => {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Juego-de-la-Serpiente/" target="_blank">https://nahuel61920.github.io/Juego-de-la-Serpiente/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Juego-de-la-Serpiente/" target="_blank">https://Suzuki0916.github.io/Juego-de-la-Serpiente/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -227,7 +227,7 @@ const ProjectGame = () => {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Preguntas-y-Respuestas/" target="_blank">https://nahuel61920.github.io/Preguntas-y-Respuestas/</a>
+                                <span>Link:</span> <a href="https://Suzuki0916.github.io/Preguntas-y-Respuestas/" target="_blank">https://Suzuki0916.github.io/Preguntas-y-Respuestas/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
